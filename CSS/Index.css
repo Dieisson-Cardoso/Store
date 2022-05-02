@@ -1,0 +1,71 @@
+body{
+    background-color:grey
+}
+.text{
+    position: relative;
+}
+.titulo {
+    font-size: 5.5em;
+    position: absolute;
+    top:20;
+    left:680px;
+    text-align: center;
+    padding:10px;
+    background-color:gray;
+    color:black;
+    
+}
+div{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.paragrafo1 {
+    word-spacing: 0.25em;
+    font-size: 1.6em;
+    position: absolute;
+    top:470px;
+    left:30px;
+    color: #ffffff;
+
+}
+
+.fecebook {
+    font-size: 2.0em;
+    position: absolute;
+    top:40px;
+    right:50px;
+    background-color:rgb(72, 111, 229);
+    border-radius:50px;
+    color: #ffffffff;
+    
+}
+
+.instagran {
+    font-size: 2.0em;
+    position: absolute;
+    top:90px;
+    right:50px;
+    background-color:rgb(236, 110, 236);
+    border-radius:50px;
+    color: #ffffffff;
+}
+
+.seta{
+    position: absolute;
+    top:590px;
+    right:1130px;
+}
+
+.produtos{
+    font-size: 4.5em;
+    position: absolute;
+    top:650px;
+    left:780px;
+    text-align: center;
+    padding:10px;
+    background-color:cyan;
+    border-radius:58px;
+}
+button:hover{
+    cursor: pointer;
+}
+
